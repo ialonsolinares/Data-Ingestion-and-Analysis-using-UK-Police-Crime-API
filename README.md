@@ -1,7 +1,7 @@
 # Data-Ingestion-and-Analysis-using-UK-Police-Crime-API
 Hello! Please refer to the MDA (Modern Data Architectures) PDF.
 
-[!url](https://apicontext.com/wp-content/uploads/2023/02/Square-Policeuk.jpg)
+![url](https://apicontext.com/wp-content/uploads/2023/02/Square-Policeuk.jpg)
 
 This is a lab to understand batch data ingestion, while using the OSBDET environment. 
 This is a virtual machine project which packages many big data open source projects such as Hadoop, Spark, Kafka or Nifi. 
