@@ -15,4 +15,6 @@ In this case we will be using the configuration file .xml as a template to gathe
 3. Run the NiFi Flow to gather the data
 4. Run the .ipynb to watch the data being analysed.
 
-#BAM! That's it! I recommend you check the PDF, it is an easy way to look at the analysis without having to replicate all the steps.
+## 
+BAM! That's it! I recommend you check the PDF, it is an easy way to look at the analysis without having to replicate all the steps.
+##
